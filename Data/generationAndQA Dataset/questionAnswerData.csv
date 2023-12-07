@@ -1,0 +1,287 @@
+Category;TechnicalInterestArea;CourseCode;GraduateLevel;CourseName;LectureHours;Laboratory hours;CreditHours;TotalHours;"Fall
+2023";"Spring
+2024";"Summer
+2024";"Fall
+2024";"Spring
+2025"
+Bioengineering;Bioengineering;ECE 6200 ;Yes; Biomedical Applications of MEMS;3;0;0;3;;X;;;X
+Bioengineering;Bioengineering;ECE 6780 ;Yes; Medical Image Processing;3;0;0;3;;X;;;
+Bioengineering;Bioengineering;ECE 6781 ;Yes; Biomedical Sensing Systems;3;0;0;3;X;;;X;
+Bioengineering;Bioengineering;ECE 6786 ;Yes; Medical Imaging Systems;3;0;0;3;X;;;X;
+Bioengineering;Bioengineering;ECE 6790 ;Yes; Information Processing Models in Neural Systems;3;0;0;3;;;;;X
+Bioengineering;Bioengineering;ECE 8833 ;Yes; Medical Ultrasound: From Diagnostic Imaging to Image-guided;3;0;0;3;;;;;
+Bioengineering;Bioengineering;ECE 8843 ;Yes; Advanced Medical Imaging Systems: CT/PET/SPECT Physics;3;0;0;3;;;;;
+Bioengineering;Bioengineering;ECE 8803 BFA ;Yes; Bioelectromagetics Fundamentals & Applications;3;0;0;3;;X;;;X
+Computer Systems and Software;Computer Systems and Software;ECE 6100 ;Yes; Advanced Computer Architecture;3;0;0;3;video;X;;video;X
+Computer Systems and Software;Computer Systems and Software;ECE 6101 ;Yes; Parallel & Distributed Computer Arch;3;0;0;3;;;;;
+Computer Systems and Software;Computer Systems and Software;ECE 6102 ;Yes; Dependable Distributed Systems;3;0;0;3;;;;;
+Computer Systems and Software;Computer Systems and Software;ECE 6110 ;Yes; CAD for Computer Communication Networks;2;0;3;3;;X;;;
+Computer Systems and Software;Computer Systems and Software;ECE 6115 ;Yes; Interconnection Networks for High Performance;3;0;0;3;;;;;
+Computer Systems and Software;Computer Systems and Software;ECE 6122 ;Yes; Advanced Programming Techniques for Engineering;2;0;3;3;video;;;video;
+Computer Systems and Software;Computer Systems and Software;ECE 6612 ;Yes;Computer Network Security;3;0;0;3;X;;;;X
+Computer Systems and Software;Computer Systems and Software;ECE 6747 ;Yes; Advanced Topics in Malware Analysis;3;0;0;3;X;;;X;
+Computer Systems and Software;Computer Systems and Software;ECE 6770 ;Yes; Introduction to Cyber-Physical Systems Security;3;0;0;3;;;;;
+Computer Systems and Software;Computer Systems and Software;ECE 7102 ;Yes; RISC Architectures;3;0;0;3;;;;;
+Computer Systems and Software;Computer Systems and Software;ECE 8803 CPS ;Yes; Cyber Physical Design and Analysis (MSCSEC Energy);3;0;0;3;X;X;;X;X
+Computer Systems and Software;Computer Systems and Software;ECE 8803 CSD ;Yes; Cybersecurity of Drones;3;0;0;3;;X;;;X
+Computer Systems and Software;Computer Systems and Software;ECE 8803 ECS ;Yes; Empirical Computer Security;3;0;0;3;;;;;
+Computer Systems and Software;Computer Systems and Software;ECE 8803 FML ;Yes; Fundamentals of Machine Learning;3;0;0;3;;X;;;X
+Computer Systems and Software;Computer Systems and Software;ECE 8813 ACS ;Yes; Advanced Computer Security;3;0;0;3;X;;;X;
+Computer Systems and Software;Computer Systems and Software;ECE 8853 QCS ;Yes; Introduction to Quantum Computing Systems;3;0;0;3;;;;;
+Computer Systems and Software;Computer Systems and Software;ECE 8893 AML ;Yes; Hardware Acceleration for Machine Learning;2;0;3;3;;X;;;
+Computer Systems and Software;Computer Systems and Software;ECE 8893 FPG ;Yes; FPGA Acceleration;3;0;0;3;;;;;X
+Digital Signal Processing;Digital Signal Processing;ECE 6250 ;Yes; Advanced Digital Signal Processing;3;0;0;3;;video;;;video
+Digital Signal Processing;Digital Signal Processing;ECE 6254 ;Yes; Statistical Machine Learning;3;0;0;3;;video;;;video
+Digital Signal Processing;Digital Signal Processing;ECE 6255 ;Yes; Digital Processing of Speech Signals;3;0;0;3;;X;;;X
+Digital Signal Processing;Digital Signal Processing;ECE 6258 ;Yes; Digital Image Processing;3;0;0;3;video;;;video;
+Digital Signal Processing;Digital Signal Processing;ECE 6260 ;Yes; Data Compression and Modeling;3;0;0;3;;;;;X
+Digital Signal Processing;Digital Signal Processing;ECE 6270 ;Yes; Convex Optimization for SP;3;0;0;3;video;;;video;
+Digital Signal Processing;Digital Signal Processing;ECE 6271 ;Yes; Adaptive Filtering;3;0;0;3;;;X;;
+Digital Signal Processing;Digital Signal Processing;ECE 6272 ;Yes; Fund of Radar Signal Processing;3;0;0;3;;;;;video
+Digital Signal Processing;Digital Signal Processing;ECE 6273 ;Yes; Methods Pattern Recog w/ Appl to Voice;3;0;0;3;;video;;;
+Digital Signal Processing;Digital Signal Processing;ECE 6274 ;Yes; Statistical Language Processing;3;0;0;3;;;;;
+Digital Signal Processing;Digital Signal Processing;ECE 6276 ;Yes; DSP Hardware Systems Design;2;0;3;3;;;;;
+Digital Signal Processing;Digital Signal Processing;ECE 6279 ;Yes; Spatial Array Processing;3;0;0;3;;;;;
+Digital Signal Processing;Digital Signal Processing;ECE 6280 ;Yes; Cryptography and Security;3;0;0;3;;;;;
+Digital Signal Processing;Digital Signal Processing;ECE 6282 ;Yes; Radar Imaging;3;0;0;3;;video;;;
+Digital Signal Processing;Digital Signal Processing;ECE 6780 ;Yes; Medical Image Processing;3;0;0;3;;X;;;
+Digital Signal Processing;Digital Signal Processing;ECE 6786 ;Yes; Medical Imaging Systems;3;0;0;3;X;;;X;
+Digital Signal Processing;Digital Signal Processing;ECE 7251 ;Yes; Signal Detection and Estimation;3;0;0;3;;;;;
+Digital Signal Processing;Digital Signal Processing;ECE 7252 ;Yes; Advanced Signal Processing Theory;3;0;0;3;;;;;
+Digital Signal Processing;Digital Signal Processing;ECE 7750 ;Yes; Mathematical Foundations of Machine Learning;3;0;0;3;X;;;X;
+Digital Signal Processing;Digital Signal Processing;ECE 7751 ;Yes; Probabilistic Graphical Models in Machine Learning;3;0;0;3;;X;;;X
+Digital Signal Processing;Digital Signal Processing;ECE 8803 CAI ;Yes; Conversational AI;3;0;3;4;;;;X;
+Digital Signal Processing;Digital Signal Processing;ECE 8803 FML ;Yes; Fundamentals of Machine Learning;3;0;0;3;;X;;;X
+Digital Signal Processing;Digital Signal Processing;ECE 8803 SLP ;Yes; Spoken Language Processing with Deep Learning;3;0;0;3;;;;X;
+Digital Signal Processing;Digital Signal Processing;ECE 8803 ODM ;Yes; Online Decision Making in ML;3;0;0;3;X;;;X;
+Digital Signal Processing;Digital Signal Processing;ECE 8803 GDL ;Yes; Generative and Geometric Deep Learning;3;0;0;3;X;;;X;
+Digital Signal Processing;Digital Signal Processing;ECE 8803 HOS ;Yes; High Dimensional Statistics and Optimization;3;0;0;3;X;;;X;
+Electrical Energy;Electrical Energy;ECE 6320 ;Yes; Power Systems Control and Operation;3;0;0;3;video;;;X;
+Electrical Energy;Electrical Energy;ECE 6321 ;Yes; Power System Stability;3;0;0;3;;;;;
+Electrical Energy;Electrical Energy;ECE 6323 ;Yes; Power System Protection;2;0;2;3;;video;;;
+Electrical Energy;Electrical Energy;ECE 6331 ;Yes; Power Electronic Circuits;3;0;0;3;;X;;;X
+Electrical Energy;Electrical Energy;ECE 6335 ;Yes; Electric Machinery Analysis;3;0;0;3;;;;;
+Electrical Energy;Electrical Energy;ECE 6336 ;Yes; Dynamics & Ctrl Electric Machine Drives;3;0;0;3;;X;;;
+Electrical Energy;Electrical Energy;ECE 6374 ;Yes; Cyber-Physical Electric Energy Systems;3;0;0;3;X;;;X;
+Electrical Energy;Electrical Energy;ECE 6445 ;Yes; Power IC Design;3;0;0;3;;;;X;
+Electrical Energy;Electrical Energy;ECE 8803 ;Yes; Power Systems Economics // Electricity Markets;3;0;0;3;;;;;
+Electrical Energy;Electrical Energy;ECE 8883 HVE ;Yes; High Voltage Engineering;2;0;3;3;;;;;X
+Electrical Energy;Electrical Energy;ECE 8803 GRD ;Yes; Principles of Smart Electricity Grids // Smart Electricity;3;0;0;3;;;;;
+Electromagnetics;Electromagnetics;ECE 6350 ;Yes; Applied Electromagnetics;3;0;0;3;X;;;X;
+Electromagnetics;Electromagnetics;ECE 6360 ;Yes; Microwave Design;3;0;0;3;;X;;;X
+Electromagnetics;Electromagnetics;ECE 6361 ;Yes; Microwave Design Laboratory;;;;;;;;;
+Electromagnetics;Electromagnetics;ECE 6370 ;Yes; Electromagnetic Radiation and Antennas;3;0;0;3;;X;;;X
+Electromagnetics;Electromagnetics;ECE 6375 ;Yes; Radio Wave Propagation in Earth & Space Environments;3;0;0;3;;;;;X
+Electromagnetics;Electromagnetics;ECE 6380 ;Yes; Intro to Computational Electromagnetics;3;0;0;3;;;;X;
+Electromagnetics;Electromagnetics;ECE 6390 ;Yes; Satellite Comm and Navigation Systems;3;0;0;3;X;;;X;
+Electromagnetics;Electromagnetics;ECE 7350 ;Yes; Advanced Topics in Analytical Electromagnetics;3;0;0;3;;;;;
+Electromagnetics;Electromagnetics;ECE 8803 WOB ;Yes; Wireless Without Batteries // Wireless Power;3;0;0;3;;X;;;
+Electronic Design & Applications;Electronic Design & Applications;ECE 6412 ;Yes; Analog Integrated Circuit Design;3;0;0;3;;X;;;X
+Electronic Design & Applications;Electronic Design & Applications;ECE 6414 ;Yes; Analog Integrated System Design;3;0;0;3;;;;;X
+Electronic Design & Applications;Electronic Design & Applications;ECE 6420 ;Yes; Wireless IC Design;3;0;0;3;;;;;?
+Electronic Design & Applications;Electronic Design & Applications;ECE 6422 ;Yes; Interface IC Design for MEMS and Sensors;3;0;0;3;X;;;X;
+Electronic Design & Applications;Electronic Design & Applications;ECE 6435 ;Yes; Neuromorphic Analog VLSI Circuits;3;0;0;3;;X;;;
+Electronic Design & Applications;Electronic Design & Applications;ECE 6444 ;Yes; Silicon-Based Heterostructure Devices and Circuits;3;0;0;3;X;;;;
+Electronic Design & Applications;Electronic Design & Applications;ECE 6445 ;Yes; Power IC Design;3;0;0;3;;;;X;
+Nanotechnology;Nanotechnology;ECE 6229 ;Yes; Introduction to MEMS;3;0;0;3;X;;;;
+Nanotechnology;Nanotechnology;ECE 6444 ;Yes; Silicon-Based Heterostructure Devices and Circuits;3;0;0;3;X;;;;
+Nanotechnology;Nanotechnology;ECE 6450 ;Yes; Intro to Microelectronics Technology;3;0;0;3;video;;;video;
+Nanotechnology;Nanotechnology;ECE 6451 ;Yes; Intro to the Theory of Microelectronics;3;0;0;3;video;;;video;
+Nanotechnology;Nanotechnology;ECE 6453 ;Yes; Theory of Electronic Devices;3;0;0;3;;X;;;
+Nanotechnology;Nanotechnology;ECE 6455 ;Yes; Semiconductor Process Control;3;0;0;3;;;;;
+Nanotechnology;Nanotechnology;ECE 6456 ;Yes; Solar Cells;3;0;0;3;X;;;X;
+Nanotechnology;Nanotechnology;ECE 6458 ;Yes; Gigascale Integration;3;0;0;3;;;;;X
+Nanotechnology;Nanotechnology;ECE 6460 ;Yes; Microelectromechanical Devices;3;0;0;3;;X;;;X
+Nanotechnology;Nanotechnology;ECE 6465 ;Yes; Memory Device Technologies and applications;3;0;0;3;;;;X;
+Nanotechnology;Nanotechnology;ECE 6542 ;Yes; Optoelectronics: Devices, Integration, Packaging, Systems;3;0;0;3;;;;;
+Nanotechnology;Nanotechnology;ECE 6771 ;Yes; Optoelectronics: Materials, Processes, Devices;3;0;0;3;;;;X;
+Nanotechnology;Nanotechnology;ECE 6776 ;Yes; Microelectronic Systems Packaging Technologies;3;0;0;3;;X;;X;
+Nanotechnology;Nanotechnology;ECE 6779 ;Yes; Thermal Engineering for Packaging of Micro and Nano Systems;3;0;0;3;;;;;
+Nanotechnology;Nanotechnology;ECE 8833;Yes;Design for Reliability of Complex Systems;3;0;0;3;;;;;
+Optics and Photonics;Optics and Photonics;ECE 6500 ;Yes; Fourier Techniques and Signal Analysis;3;0;0;3;;;video;video;
+Optics and Photonics;Optics and Photonics;ECE 6501 ;Yes; Fourier Optics and Holography;3;0;0;3;X;;;;X
+Optics and Photonics;Optics and Photonics;ECE 6510 ;Yes; Electro-Optics;3;0;0;3;;;;;
+Optics and Photonics;Optics and Photonics;ECE 6515 ;Yes; Introduction to Nanophotonic Systems;3;0;0;3;;;;X;
+Optics and Photonics;Optics and Photonics;ECE 6520 ;Yes; Integrated Optics;3;0;0;3;video;;video;video;
+Optics and Photonics;Optics and Photonics;ECE 6522 ;Yes; Nonlinear Optics;3;0;0;3;;;;;
+Optics and Photonics;Optics and Photonics;ECE 6530 ;Yes; Modulation, Diffractive & Crystal Optics;3;0;0;3;;X;;;
+Optics and Photonics;Optics and Photonics;ECE 6540 ;Yes; Organic Optoelectronics;3;0;0;3;;;;;
+Optics and Photonics;Optics and Photonics;ECE 6542 ;Yes; Optoelectronics: Devices, Integration, Packaging, Systems;3;0;0;3;;;;;
+Optics and Photonics;Optics and Photonics;ECE 6543 ;Yes; Fiber Optic Networks;3;0;0;3;;;;;
+Optics and Photonics;Optics and Photonics;ECE 6771 ;Yes; Optoelectronics: Materials, Processes, Devices;3;0;0;3;;;;X;
+Systems and Controls;Systems and Controls;ECE 6550 ;Yes; Linear Systems and Controls;3;0;0;3;video;;video;video;
+Systems and Controls;Systems and Controls;ECE 6551 ;Yes; Digital Control;3;0;0;3;video;;;;
+Systems and Controls;Systems and Controls;ECE 6552 ;Yes; Nonlinear Systems and Control;3;0;0;3;;video;;;video
+Systems and Controls;Systems and Controls;ECE 6553 ;Yes; Optimal Control and Optimization;3;0;0;3;;video;;;video
+Systems and Controls;Systems and Controls;ECE 6554 ;Yes; Adaptive Control;3;0;0;3;;;;;video
+Systems and Controls;Systems and Controls;ECE 6555 ;Yes; Optimal Estimation;3;0;0;3;;;;;
+Systems and Controls;Systems and Controls;ECE 6558 ;Yes; Stochastic Systems;3;0;0;3;;;;;
+Systems and Controls;Systems and Controls;ECE 6559 ;Yes; Advanced Linear Systems;3;0;0;3;;;;;
+Systems and Controls;Systems and Controls;ECE 6560 ;Yes; PDEs in Image Proc and Comp Vision;3;0;0;3;;video;;;
+Systems and Controls;Systems and Controls;ECE 6562 ;Yes; Autonomous Control of Robotic Systems;3;0;0;3;;;;;
+Systems and Controls;Systems and Controls;ECE 6563 ;Yes; Networked Control Systems;3;0;0;3;;;;;
+Telecommunications;Telecommunications;ECE 6390 ;Yes; Satellite Comm and Navigation Systems;3;0;0;3;X;;;X;
+Telecommunications;Telecommunications;ECE 6601 ;Yes; Random Processes;3;0;0;3;video;;video;video;
+Telecommunications;Telecommunications;ECE 6602 ;Yes; Digital Communications;3;0;0;3;;video;;;video
+Telecommunications;Telecommunications;ECE 6603 ;Yes; Advanced Digital Communications;3;0;0;3;;;;;
+Telecommunications;Telecommunications;ECE 6604 ;Yes; Personal and Mobile Communications;3;0;0;3;;;;X;
+Telecommunications;Telecommunications;ECE 6605 ;Yes; Information Theory;3;0;0;3;video;;;video;
+Telecommunications;Telecommunications;ECE 6606 ;Yes; Coding Theory and Applications;3;0;0;3;;;;;
+Telecommunications;Telecommunications;ECE 6607 ;Yes; Computer Communication Networks;3;0;0;3;video;;;video;
+Telecommunications;Telecommunications;ECE 6610 ;Yes; Wireless Networks;3;0;0;3;video;;;video;
+Telecommunications;Telecommunications;ECE 6612 ;Yes; Computer Network Security;3;0;0;3;X;;;;X
+Telecommunications;Telecommunications;ECE 6613 ;Yes; Broadband Access Networks;3;0;0;3;;;;;
+Telecommunications;Telecommunications;ECE 6615 ;Yes; Sensor Networks;3;0;0;3;;;;;
+Telecommunications;Telecommunications;ECE 8803 AWN ;Yes; Advanced Wireless Networks;3;0;0;3;;X;;;X
+VLSI Systems and Digital Design;VLSI Systems and Digital Design;ECE 6130 ;Yes; Advanced VLSI Systems;3;0;0;3;X;;;;
+VLSI Systems and Digital Design;VLSI Systems and Digital Design;ECE 6132 ;Yes; Computer-Aided System Design;3;0;0;3;;;;;
+VLSI Systems and Digital Design;VLSI Systems and Digital Design;ECE 6133 ;Yes; Physical Design Automation VLSI Sys;3;0;0;3;;;;;
+VLSI Systems and Digital Design;VLSI Systems and Digital Design;ECE 6135 ;Yes; Digital Systems at Nanometer Nodes;2;0;3;3;X;;;;
+VLSI Systems and Digital Design;VLSI Systems and Digital Design;ECE 6140 ;Yes; Digital Systems Test;3;0;0;3;video;;;X;
+VLSI Systems and Digital Design;VLSI Systems and Digital Design;ECE 6150 ;Yes; Computational Aspects of Cyber-Physical Systems //;3;0;0;3;;;;;
+VLSI Systems and Digital Design;VLSI Systems and Digital Design;ECE 6156 ;Yes; Hardware Oriented Security and Trust;3;0;0;3;;X;;;X
+VLSI Systems and Digital Design;VLSI Systems and Digital Design;ECE 6276 ;Yes; DSP Hardware Systems Design;2;0;3;3;;;;;
+VLSI Systems and Digital Design;VLSI Systems and Digital Design;ECE 6465 ;Yes; Memory Device Technologies and applications;2;0;3;3;;;;X;
+VLSI Systems and Digital Design;VLSI Systems and Digital Design;ECE 7141 ;Yes; Advanced Digital Systems Test;2;0;3;3;;;;;
+VLSI Systems and Digital Design;VLSI Systems and Digital Design;ECE 8803 ALT ;Yes; Advanced Logic Transistor: Physics and Technology;3;0;0;3;;X;;;X
+VLSI Systems and Digital Design;VLSI Systems and Digital Design;ECE 8803 QDH ;Yes; Quantum Computing Devices and Hardware;3;0;0;3;;X;;;X
+VLSI Systems and Digital Design;VLSI Systems and Digital Design;ECE 8804 VLS ;Yes; VLSI Design: Theory to Tapeout;3;0;3;4;;X;;;
+VLSI Systems and Digital Design;VLSI Systems and Digital Design;ECE 8813 ;Yes; Advanced Digital Design with Verilog;3;0;0;3;;;;;
+VLSI Systems and Digital Design;VLSI Systems and Digital Design;ECE 8893 ;Yes; Digital Design with Modern VLSI Devices;2;0;3;3;;;;;
+VLSI Systems and Digital Design;VLSI Systems and Digital Design;ECE 8894 ATV ;Yes; Advanced Topics in VLSI Circuits;3;0;3;4;;;;;
+Courses not in ECE MS/PhD domains;None;ECE 6001 ;Yes;Technology Entrepreneurship;3;0;0;3;X;X;;X;X
+Courses not in ECE MS/PhD domains;None;ECE 6710 ;Yes; Ethics of Biotechnology and Bioengineering Research;3;0;0;3;;;;;
+Courses not in ECE MS/PhD domains;None;ECE 6727 ;Yes; Information Security Practicum;1;0;12;5;X;X;;X;X
+Courses not in ECE MS/PhD domains;None;ECE 6730 ;Yes; Modeling & Simulation: Foundations and Implementation;3;0;0;3;;;;;
+Courses not in ECE MS/PhD domains;None;ECE 6792 ;Yes; Manufacturing Seminar;1;0;0;1;X;X;;X;X
+Courses not in ECE MS/PhD domains;None;ECE 7721 ;Yes; Are You Thinking of Becoming an Academic?;1;0;0;1;X;;;X;
+Courses not in ECE MS/PhD domains;None;ECE 7722 ;Yes; Future Faculty Practicum;2;0;3;3;;X;;;X
+Courses not in ECE MS/PhD domains;None;ECE 7741 ;Yes; Robotics Pro Prep 1;1;0;0;1;X;;;X;
+Courses not in ECE MS/PhD domains;None;ECE 7743 ;Yes; Robotics Pro Prep 3;1;0;0;1;X;;;X;
+Courses not in ECE MS/PhD domains;None;ECE 7785 ;Yes; Intro Robotics Research;3;0;0;3;X;;;X;
+Courses not in ECE MS/PhD domains;None;ECE 8001 ;Yes; ECE Seminar;1;0;0;1;X;;;X;
+Courses not in ECE MS/PhD domains;None;ECE 8002 ;Yes; ECE Seminar;1;0;0;1;;X;;;X
+Courses not in ECE MS/PhD domains;None;ECE 8022 ;Yes; Professional Communication Seminar;1;0;0;1;X;X;;X;X
+Courses not in ECE MS/PhD domains;None;ECE 8750 ;Yes; Robotics Research Foundation I;0;0;9;3;X;X;;X;X
+Courses not in ECE MS/PhD domains;None;ECE 8751 ;Yes; Robotics Research Foundation II;0;0;9;3;X;X;;X;X
+Courses not in ECE MS/PhD domains;None;ECE 8863 DIS ;Yes; Deliberate Innovation and Startups;3;0;0;3;;;;;
+Major design courses;None;ECE 4871 ;No; ECE Culminating Design I;0;2;0;1;X;X;;X;X
+Major design courses;None;ECE 4872 ;No; ECE Culminating Design II;0;0;6;2;X;X;;X;X
+Major design courses;None;ECE 3011 ;No; ECE Design Fundamentals;1;2;0;2;X;X;;X;X
+Major design courses;None;ECE 4873 A ;No; ECE Culminating Design single semester;0;2;6;3;X;X;;X;X
+Major design courses;None;ECE 4723 A ;No; ECE Multi-disciplinary Design single-semester;0;2;6;3;X;X;;X;X
+Cybersecurity;None;ECE 4112 ;No; Internetwork Security;2;0;0;3;X;;;;X
+Cybersecurity;None;ECE 4117 ;No; Introduction to Malware Reverse Engineering;3;0;3;4;;X;;;X
+Cybersecurity;None;ECE 4147 ;No; Advanced Topics in Malware Analysis;3;0;0;3;X;;;X;
+Cybersecurity;None;ECE 4156 ;No; Hardware Oriented Security Trust;3;0;0;3;;X;;;X
+Distributed System & Software Design;None;CS 4220 ;No; Programming Embedded Systems;3;0;0;3;X;;;X;
+Distributed System & Software Design;None;ECE 4122 ;No; Adv Prog Techniques;2;0;3;3;X;;;X;
+Distributed System & Software Design;None;ECE 4795 ;No; GPU Programming for Video Games;3;0;0;3;;;X;;
+Distributed System & Software Design;None;ECE 4150 ;No; Cloud Computing;3;0;0;3;;X;;;
+Distributed System & Software Design;None;ECE 4180 ;No; Embedded Systems Design;3;0;3;4;X;X;;X;X
+Distributed System & Software Design;None;CS 4605 ;No; Mobile and Ubiquitous Computing;3;0;0;3;X;X;;;
+Computing Hardware & Emerging Architectures;None;CS 4220 ;No; Programming Embedded Systems;3;0;0;3;X;;;X;
+Computing Hardware & Emerging Architectures;None;ECE 4180 ;No; Embedded Systems Design;3;0;3;4;X;X;;X;X
+Computing Hardware & Emerging Architectures;None;ECE 4130 ;No; Advanced VLSI Systems;3;0;3;4;X;;;X;
+Computing Hardware & Emerging Architectures;None;ECE 4452 ;No; Integrated Circuit Fabrication;2;0;0;3;X;X;;X;X
+Computing Hardware & Emerging Architectures;None;ECE 4420 ;No; Digital Integrated Circuits;3;0;0;3;;;;;
+Computing Hardware & Emerging Architectures;None;ECE 4460 ;No; Introduction to Electronic Systems Packaging;3;0;0;3;;;;;X
+Computing Hardware & Emerging Architectures;None;ECE 4100 ;No; Advanced Computer Architecture;3;0;0;3;X;X;;X;X
+Computing Hardware & Emerging Architectures;None;ECE 4150 ;No; Cloud Computing;3;0;0;3;;X;;;
+SYSTEMS & ARCHITECTURE;None;CS 4240 ;No; Compilers, Interpreters, and Program Analyzers;3;0;0;3;;;;;
+SYSTEMS & ARCHITECTURE;None;CS 4210 ;No; Advanced Operating Systems;3;0;0;3;X;;;X;
+SYSTEMS & ARCHITECTURE;None;CS 4220 ;No; Programming Embedded Systems;3;0;0;3;X;;;X;
+SYSTEMS & ARCHITECTURE;None;ECE 4100 ;No; Advanced Computer Architecture;3;0;0;3;X;X;;X;X
+DEVICES;None;ECE 4180 ;No; Embedded Systems Design;3;0;3;4;X;X;;X;X
+DEVICES;None;CS 4261 ;No; Mobile Applications and Services for Converged Networks;3;0;0;3;X;;;;
+DEVICES;None;CS 4476 ;No; Intro to Computer Vision;3;0;0;3;X;;;X;
+DEVICES;None;CS 4605 ;No; Mobile and Ubiquitous Computing;3;0;0;3;X;X;;;
+INFORMATION INTERNETWORKS;None;CS 4237 ;No; Computer and Network Security;3;0;0;3;;;;;
+INFORMATION INTERNETWORKS;None;CS 4251 ;No; Computer Networking 2;3;0;0;3;X;;;;
+INFORMATION INTERNETWORKS;None;CS 4255 ;No; Introduction to Network Management;3;0;0;3;;;;;
+INFORMATION INTERNETWORKS;None;CS 4261 ;No; Mobile Applications and Services for Converged Networks;3;0;0;3;X;;;;
+INFORMATION INTERNETWORKS;None;CS 4270 ;No; Data Communications Laboratory;3;0;0;3;;;;;
+INFORMATION INTERNETWORKS;None;CS 4365 ;No; Introduction to Enterprise Computing;3;0;0;3;;X;;;
+INFORMATION INTERNETWORKS;None;CS 4420 ;No; Database System Implementation;3;0;0;3;X;;;;
+INFORMATION INTERNETWORKS;None;CS 4440 ;No; Emerging Database Technologies and Applications;3;0;0;3;;;;;
+INFORMATION INTERNETWORKS;None;CS 4675 ;No; Internet Computing Systems, Services, and Applications;3;0;0;3;;X;;;
+INFORMATION INTERNETWORKS;None;CS 4400 ;No; Introduction to Database Systems;3;0;0;3;X;;;;
+INFORMATION INTERNETWORKS;None;CS 4235 ;No; Introduction to Information Security;3;0;0;3;X;;;;
+Signal and Information Processing;None;ECE 4270 ;No; Fundamentals of DSP;3;0;0;3;X;X;;X;X
+Signal and Information Processing;None;ECE 4252 ;No; Fundamentals of Machine Learning;3;0;0;3;;X;;;X
+Signal and Information Processing;None;ECE 4271 ;No; Applications of DSP;3;0;3;4;;X;;;X
+Signal and Information Processing;None;ECE 4260 ;No; Random Signals and Applications;3;0;0;3;X;;;X;
+Signal and Information Processing;None;ECE 4273 ;No; Design Synthesis of Application Specific Signal Processors;2;0;3;3;;;;;
+Signal and Information Processing;None;ECE 4122 ;No; Advanced Programming Techniques for Engineering Applications;2;0;3;3;X;;;X;
+Signal and Information Processing;None;ECE 4783 ;No; Introduction to Medical Image Processing;3;0;0;3;;;;;
+Signal and Information Processing;None;ECE 4258 ;No; Digital Image Processing (formerly 4803 IMG);3;0;0;3;X;;;;
+Signal and Information Processing;None;ECE 4270 ;No; Fundamentals of DSP;3;0;0;3;X;X;;X;X
+Signal and Information Processing;None;ECE 4252 ;No; Fundamentals of Machine Learning;3;0;0;3;;X;;;X
+Signal and Information Processing;None;ECE 3251 ;No;Optimization for Information Systems;3;0;0;3;X;;;X;
+Signal and Information Processing;None;ECE 4180 ;No; Embedded Systems Design;3;0;3;4;X;X;;X;X
+Robotics and Autonomous Systems;None;ECE 4550 ;No; Control System Design;3;0;3;4;X;X;X;X;X
+Robotics and Autonomous Systems;None;ECE 4252 ;No; Fundamentals of Machine Learning;3;0;0;3;;X;;;X
+Robotics and Autonomous Systems;None;ECE 4560 ;No; Intro Automation&Robotic;3;0;3;4;X;;;;
+Robotics and Autonomous Systems;None;ECE 4580 ;No; Computer Vision;3;0;0;3;;;;X;
+Robotics and Autonomous Systems;None;ECE 4570 ;No; Modern System Theory;3;0;3;4;;X;;;
+Robotics and Autonomous Systems;None;ECE 4575 ;No; Numerical Methods for Optimization;3;0;0;3;;;;;
+Telecommunications;None;ECE 4601 ;No; Communication Systems;3;0;0;3;X;;;X;
+Telecommunications;None;ECE 4606 ;No; Wireless Communications;3;0;0;3;;X;;;X
+Telecommunications;None;ECE 4350 ;No; Electromagnetic & Microwave Applications;3;0;0;3;X;X;;X;X
+Telecommunications;None;ECE 4370 ;No; Antenna Engineering;3;0;0;3;X;;;X;
+Telecommunications;None;ECE 4500 ;No; Optical Engineering;3;0;0;3;X;;;X;
+Telecommunications;None;ECE 4601 ;No; Communication Systems;3;0;0;3;X;;;X;
+Telecommunications;None;ECE 4606 ;No; Wireless Communications;3;0;0;3;;X;;;X
+Telecommunications;None;ECE 4607 ;No; Mobile and Wireless Networks;3;0;0;3;;;;;
+Telecommunications;None;ECE 4502 ;No; Fiber Optic Communications;3;0;3;4;;X;;;X
+Telecommunications;None;ECE 4612 ;No; Telecom Systems Lab (formerly ECE 4602);0;0;3;1;;X;;;X
+Electronic Devices (Electronic and Optoelectronic Devices);None;ECE 4452 ;No; Integrated Circuit Fabrication;2;0;3;3;X;X;;X;X
+Electronic Devices (Electronic and Optoelectronic Devices);None;ECE 4350 ;No; Electromagnetic & Microwave Applications;3;0;0;3;X;X;;X;X
+Electronic Devices (Electronic and Optoelectronic Devices);None;ECE 4470 ;No; Devices in Renewable Energy;3;0;0;3;;X;;;X
+Electronic Devices (Electronic and Optoelectronic Devices);None;ECE 4500 ;No; Optical Engineering;3;0;0;3;X;;;X;
+Electronic Devices (Electronic and Optoelectronic Devices);None;ECE 4751 ;No; Laser Theory and Applications;3;0;0;3;;;X;;
+Electronic Devices (Electronic and Optoelectronic Devices);None;ECE 4460 ;No; Introduction to Electronic Systems Packaging;3;0;0;3;;;;;X
+Electronic Devices (Electronic and Optoelectronic Devices);None;ECE 4754 ;No; Electronics Packaging Assembly, Reliability, Thermal Mgt, and Test;1;0;6;3;;X;;;
+Electronic Devices (Electronic and Optoelectronic Devices);None;ECE 4755 ;No; Electronic Packaging Substrate Fabrication;1;0;6;3;X;;;;
+Circuit Technology;None;ECE 4452 ;No; Integrated Circuit Fabrication;2;0;3;3;X;X;;X;X
+Circuit Technology;None;ECE 4043 ;No; Analog Electronics Lab;1;0;3;2;X;X;X;X;X
+Circuit Technology;None;ECE 4415 ;No; RF Engineering I;3;0;0;3;X;;;X;
+Circuit Technology;None;ECE 4420 ;No; Digital Integrated Circuits;3;0;0;3;;;;;
+Circuit Technology;None;ECE 4430 ;No; Analog Integrated Circuits;3;0;0;3;X;;;X;
+Circuit Technology;None;ECE 4435 ;No; Operational Amplifier Design;2;0;3;3;;X;;;
+Circuit Technology;None;ECE 4502 ;No; Optical Fiber Communications;3;0;3;4;;X;;;X
+Circuit Technology;None;ECE 4370 ;No; Antenna Engineering;3;0;0;3;X;;;X;
+Circuit Technology;None;ECE 4391 ;No; Electromagnetic Compatibility;3;0;0;3;;;X;;
+BioEngineering;None;ECE 4781 ;No; Biomedical Instrumentation;3;0;0;3;X;;;X;
+BioEngineering;None;ECE 4784 ;No; Engineering Electrophysiology;3;0;0;3;X;;;X;
+BioEngineering;None;ECE 4782 ;No; Biosystems Analysis;3;0;0;3;;X;;;X
+BioEngineering;None;ECE 4781 ;No; Biomedical Instrumentation;3;0;0;3;X;;;X;
+BioEngineering;None;ECE 4784 ;No; Engineering Electrophysiology;3;0;0;3;X;;;X;
+BioEngineering;None;ECE 4782 ;No; Biosystems Analysis;3;0;0;3;;X;;;X
+BioEngineering;None;ECE 4350 ;No; Electromagnetic & Microwave Applications;3;0;0;3;X;X;;X;X
+BioEngineering;None;ECE 4435 ;No; Operational Amplifier Design;2;0;3;3;;X;;;
+BioEngineering;None;ECE 4370 ;No; Antenna Engineering;3;0;0;3;X;;;X;
+Electric Energy Systems;None;ECE 4320 ;No; Power System Analysis and Control;3;0;0;3;X;;;X;
+Electric Energy Systems;None;ECE 4321 ;No; Power System Engineering;3;0;0;3;;X;;;X
+Electric Energy Systems;None;ECE 4325 ;No; Electric Power Quality;3;0;0;3;;;;;
+Electric Energy Systems;None;ECE 4330 ;No; Power Electronics;3;0;0;3;X;;;X;
+Electric Energy Systems;None;ECE 4335 ;No; Electric Machinery Analysis;3;0;0;3;;;;;
+Sensing & Exploration;None;ECE 4390 ;No; Introduction to Radars and Remote Sensing & Exploration;3;0;0;3;X;X;;X;X
+Sensing & Exploration;None;ECE 4260 ;No; Random Signals and Applications;3;0;0;3;X;;;X;
+Sensing & Exploration;None;ECE 4350 ;No; Electromagnetic & Microwave Applications;3;0;0;3;X;X;;X;X
+Sensing & Exploration;None;ECE 4370 ;No; Antenna Engineering;3;0;0;3;X;;;X;
+Sensing & Exploration;None;ECE 4580 ;No; Computer Vision;3;0;0;3;;;;X;
+Sensing & Exploration;None;ECE 4781 ;No; Biomedical Instrumentation;3;0;0;3;X;;;X;
+Other Undergraduate Electives;None;ECE 4053 ;No; Research Methods;2;0;0;2;;X;;;X
+Other Undergraduate Electives;None;ECE 4371 ;No;Antenna Engineering Lab;0;0;3;1;X;;;X;
+Other Undergraduate Electives;None;ECE 4418 ;No; RF Engineering II;3;0;0;3;;;;;
+Other Undergraduate Electives;None;ECE 4445 ;No; Audio Engineering;3;0;0;3;X;;;X;
+Other Undergraduate Electives;None;ECE 4446 ;No; Audio Engineering Laboratory;0;0;3;1;X;;;X;
+Other Undergraduate Electives;None;ECE 4448 ;No; Guitar Amplification and Effects (formerly ECE 4803 GAE);2;0;3;3;;X;;;
+Other Undergraduate Electives;None;ECE 4450 ;No; Analog Circuits for Music Synthesis;2;0;3;3;;;;;X
+Other Undergraduate Electives;None;ECE 4803 (CSD) ;No; Cybersecurity of Drones;3;0;0;3;;X;;;X
+Other Undergraduate Electives;None;ECE 4803 (CME) ;No; Computational Methods;3;0;0;3;;X;;;
+Other Undergraduate Electives;None;ECE 4803 (QSM) ;No;Nanoelectronics: Quantum and Statistical Mechanical;3;0;0;3;;;;X;
+Other Undergraduate Electives;None;ECE 4803 (WOB) ;No; Wireless Power Transmission and Sensing Systems;3;0;0;3;;X;;;
+Other Undergraduate Electives;None;ECE 4804 VLS ;No; VLSI Design: Theory to Tapeout;3;0;3;4;X;;;X;
+Other Undergraduate Electives;None;ECE 4053 ;No; Research Methods;2;0;0;2;;X;;;X
